@@ -25,4 +25,4 @@ Constructing a neural network with 1 hidden layer of 2 nodes to solve the XOR pr
 
 Utilizing the neural network library to construct multiple networks for handwritten digit recognition on the MNIST dataset. Experimenting with various network configurations and hyperparameters. This uses early stopping based on the validation loss to prevent overfitting.
 
-Training at least 3 different models, plotting the training and validation loss for each configuration and evaluating each model on the test set and reported the test accuracy.
+Training at least 3 different models, plotting the training and validation loss for each configuration. Evaluating each model on the test set and reported the test accuracy.
